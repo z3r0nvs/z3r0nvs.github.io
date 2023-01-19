@@ -21,7 +21,7 @@ timezone:
 
 title: Z3R0                         # the main title
 
-tagline: Blog personal de Cyberseguridad   # it will display as the sub-title
+tagline: Blog personal de Cyberseguridad.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A personal cybersecurity blog.
